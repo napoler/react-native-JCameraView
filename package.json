@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-short-video-camera",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2",
+    "react-native": "^0.41.2"
   
 
   }
